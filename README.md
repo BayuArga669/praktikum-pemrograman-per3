@@ -1,0 +1,5 @@
+# Praktikum Pemrograman Pertemuan 3
+
+## Kesimpulan
+
+Berdasarkan tujuan praktikum dan hasil percobaan yang telah dilakukan, dapat disimpulkan bahwa operator relational (>, <, >=, <=, ==, !=) digunakan untuk membandingkan dua nilai dan menghasilkan kondisi benar (1) atau salah (0), sedangkan operator logical (&&, ||, !) digunakan untuk menggabungkan atau membalik beberapa kondisi sekaligus. Operator assignment (=) dan compound assignment (+=, -=, *=, /=, %=) berfungsi untuk memberikan dan memperbarui nilai variabel secara efisien. Selain itu, struktur conditional if, if-else, dan else-if terbukti efektif untuk mengendalikan alur program berdasarkan kondisi tertentu, mulai dari satu kondisi sederhana hingga beberapa kondisi bertingkat. Seluruh percobaan yang dilakukan menghasilkan output yang sesuai dengan yang diharapkan, sehingga dapat dikatakan bahwa mahasiswa telah mampu memahami dan menerapkan operator relational, logical, assignment, serta struktur conditional dengan baik sesuai tujuan praktikum.
